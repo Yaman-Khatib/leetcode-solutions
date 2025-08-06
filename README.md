@@ -3,4 +3,4 @@ I use this repository to document LeetCode problems I've solved as part of impro
 
 ## Structure
 - `cpp/`: Solutions in C++
-- `python/`: Solutions in Python
+- `cs/`: Solutions in C#
